@@ -64,7 +64,7 @@
  &trans  &trans  &trans           &kp LG(LC(SPACE))                       &trans  &trans             &none                                                   &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans                      &trans                &kp LG(LC(F))  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans                      &trans                       &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans   &trans   &trans   &trans
- &trans  &trans  &trans  &kp LG(LC(LS(LEFT_ARROW)))  &kp LG(LC(LS(RIGHT_ARROW)))                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
+ &trans  &trans  &trans  &kp LG(LC(LA(LEFT_ARROW)))  &kp LG(LC(LA(RIGHT_ARROW)))                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
             >;
         };
 
