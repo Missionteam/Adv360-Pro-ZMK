@@ -54,7 +54,7 @@
         fn {
             bindings = <
 &kp F1  &kp F2  &kp F3     &kp F4                      &kp F5                       &kp F6  &tog 1                                      &mo 3   &kp F7  &kp F8          &kp F9          &kp F10          &kp F12  &kp F12
-&trans  &trans  &trans     &kp LG(LC(SPACE))           &trans                       &trans  &none                                       &none   &trans  &trans          &mmv MOVE_UP    &trans           &trans   &trans
+&trans  &trans  &trans     &kp LG(LC(SPACE))           &trans                       &trans  &none                                       &none   &trans  &trans          &trans          &trans           &trans   &trans
 &trans  &trans  &mkp LCLK  &mkp RCLK                   &kp LG(LC(F))                &trans  &none   &trans  &trans      &trans  &trans  &none   &trans  &trans          &trans          &trans           &trans   &trans
 &trans  &trans  &trans     &trans                      &trans                       &trans                  &trans      &trans                  &trans  &trans          &msc SCRL_DOWN  &msc SCRL_UP     &trans   &trans
 &trans  &trans  &trans     &kp LG(LC(LA(LEFT_ARROW)))  &kp LG(LC(LA(RIGHT_ARROW)))          &trans  &trans  &trans      &trans  &trans  &trans          &trans          &trans          &trans           &trans   &trans
